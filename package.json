@@ -1,0 +1,27 @@
+{
+  "name": "@ritwik0706/learning-npm",
+  "version": "1.0.0",
+  "description": "Learning NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "Ritwik",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritwik0706/Learning-NPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ritwik0706/Learning-NPM/issues"
+  },
+  "homepage": "https://github.com/ritwik0706/Learning-NPM#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,1 @@
+Just trying to learn npm using how-to-npm : a module to learn how to module
