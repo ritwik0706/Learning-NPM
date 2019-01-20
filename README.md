@@ -13,5 +13,7 @@ Just trying to learn npm using how-to-npm : a module to learn how to module
 11. npm dist-tag add 'pkg@1.0.1' 'tag' : if you need to publish something, and not make it the default version of a package (for      example, if it's a security release for a legacy version, or something)
 12. npm dist-tag rm 'pkg' 'tag' : To remove a dist tag
 13. npm dist-tag ls : Lists all the dist tags for a package
-14. npm update [-g] [<pkg>] : This command will update all the packages listed to the latest version
+14. npm update -g 'pkg' : This command will update all the packages listed to the latest version
 15. npm install npm -g : Update the npm to its latest version
+16. npm outdated : To detect if any of your dependency version is lesser than latest dependency version
+17. npm rm 'pkg' : To Remove a package , similar to npm uninstall
