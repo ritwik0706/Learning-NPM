@@ -17,3 +17,5 @@ Just trying to learn npm using how-to-npm : a module to learn how to module
 15. npm install npm -g : Update the npm to its latest version
 16. npm outdated : To detect if any of your dependency version is lesser than latest dependency version
 17. npm rm 'pkg' : To Remove a package , similar to npm uninstall
+
+Also solved all the problems of learnoyunode and how-to-npm.
